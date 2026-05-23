@@ -1,0 +1,9 @@
+numpy<2
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langchain-core
+chromadb
+pypdf
+streamlit
