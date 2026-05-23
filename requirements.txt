@@ -1,3 +1,5 @@
+protobuf==5.29.3
+# Keep your other dependencies here...
 streamlit
 langchain
 langchain-chroma
